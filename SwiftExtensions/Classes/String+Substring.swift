@@ -5,7 +5,7 @@
 //  Created by André Felipe Destro on 08/05/18.
 //
 
-extension String {
+public extension String {
 
     subscript (index: Int) -> Character {
         var i = index

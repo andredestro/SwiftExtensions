@@ -6,8 +6,6 @@
 //  Copyright (c) 2016 André Felipe Destro. All rights reserved.
 //
 
-import Foundation
-
 public extension Character {
     
     var uppercaseString: String {

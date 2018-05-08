@@ -5,9 +5,7 @@
 //  Created by André Felipe Destro on 08/05/18.
 //
 
-import UIKit
-
-extension Date {
+public extension Date {
 
     var daysUntilNow: Int {
         let interval = Date().timeIntervalSince(self)
