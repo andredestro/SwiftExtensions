@@ -117,9 +117,6 @@ public extension Date {
     }
     
     fileprivate func NSDateTimeAgoLocalizedStrings(_ key: String) -> String {
-        let resourcePath = Bundle.main.resourcePath
-        let url = URL(fileURLWithPath: resourcePath!).appendingPathComponent("NSDateTimeAgo.bundle")
-        let bundle = Bundle(path: url.path)
-        return NSLocalizedString(key, tableName: "NSDateTimeAgo", bundle: bundle!, comment: "")
+        return NSLocalizedString(key, tableName: "NSDateTimeAgo", bundle: Bundle.main, comment: "")
     }
 }
