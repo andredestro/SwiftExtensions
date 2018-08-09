@@ -1,6 +1,5 @@
 # SwiftExtensions
 
-[![CI Status](https://img.shields.io/travis/André Felipe Destro/SwiftExtensions.svg?style=flat)](https://travis-ci.org/André Felipe Destro/SwiftExtensions)
 [![Version](https://img.shields.io/cocoapods/v/SwiftExtensions.svg?style=flat)](https://cocoapods.org/pods/SwiftExtensions)
 [![License](https://img.shields.io/cocoapods/l/SwiftExtensions.svg?style=flat)](https://cocoapods.org/pods/SwiftExtensions)
 [![Platform](https://img.shields.io/cocoapods/p/SwiftExtensions.svg?style=flat)](https://cocoapods.org/pods/SwiftExtensions)
